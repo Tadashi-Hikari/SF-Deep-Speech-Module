@@ -1,2 +1,3 @@
-include ':app'
+include ':ComponentFramework'
+include ':DeepSpeechModule'
 rootProject.name = "Deep Speech Module"
